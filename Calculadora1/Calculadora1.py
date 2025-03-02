@@ -8,6 +8,9 @@ este es un ejemplo de como usar las instrucciones basicas para usar python
 #fecha: 20/02/25
 """
 
+def run():
+    """script entrypoint"""
+    
 #recopilar operandos
 primerTermino = int(input("escriba un  numero entero: "))
 segundoTermino = int(input("escriba otro  numero entero: "))
@@ -41,7 +44,6 @@ print (f"la division de {primerTermino} y {segundoTermino} es {resultadoDivision
 print (f"el cuadrado del primer termino {primerTermino}  {resultadoPotenciacionPrimerTermino}")
 
 print (f"el cuadrado del segundo termino  {segundoTermino} es {resultadoPotenciacionSegundoTermino}")
-
 
 if __name__ == "__main__":
     run()
