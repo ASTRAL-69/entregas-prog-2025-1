@@ -43,7 +43,8 @@ print (f"el cuadrado del primer termino {primerTermino}  {resultadoPotenciacionP
 print (f"el cuadrado del segundo termino  {segundoTermino} es {resultadoPotenciacionSegundoTermino}")
 
 
-
+if __name__ == "__main__":
+    run()
 
 
 
