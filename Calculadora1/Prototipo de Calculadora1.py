@@ -12,7 +12,7 @@ este es un ejemplo de como usar las instrucciones basicas para usar python
 
 def run():
     """script entrypoint"""
-    
+
 #recopilar operandos
 primerTermino = int(input("escriba un  numero entero: "))
 segundoTermino = int(input("escriba otro  numero entero: "))
