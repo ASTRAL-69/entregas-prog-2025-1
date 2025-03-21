@@ -1,1 +1,1 @@
-# calculadora.py
+# Prototipo de Calculadora 1
